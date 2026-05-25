@@ -2,7 +2,7 @@
 
 KaichoFX spell particles are a custom project started by Kaicho (iraleePNG) in 2023, for visual improvement for use while playing Project Quarm ran by Secrets & team. It's a direct replacement + enhancement to Everquest's original spell particle system. Utilizing their same base output/movement, the majority of spells will receive a new visual animation with the ones that are unable to benefit still being allowed to use original spell particles **(ensure /showspelleffects on)**. KaichoFX is in no way affiliated, sponsored, or licensed by Daybreak Games or the Everquest brand in any way shape or fashion -- this is a passion project by a lifelong addict of Everquest. 
 
-**Updated version 4a 2026:**
+**Most recently release version: 4a 2026: https://github.com/IraLeePNG/KaichoFX_quarm_spellparticles/releases/tag/version_4a_May2026**
 
 
 
@@ -24,3 +24,6 @@ Click the **tags** link and navigate to current version, then download version 4
 3. unzip these particle effects into it, and enjoy!
 
 tip: I personally use 45% opacity on these effects set to Medium. Some folks prefer 35-50% and both work great, and even on Low Density settings for raiding!
+
+## Feedback:
+Feel free to message in-game if you have feedback or notes (I may or may not implement, depends on if the stars align): Cusswords, Difficult, Cringe, or Dismy 
