@@ -4,6 +4,7 @@ KaichoFX spell particles are a custom project started by Kaicho (iraleePNG) in 2
 
 **Most recently release version: 4a 2026: https://github.com/IraLeePNG/KaichoFX_quarm_spellparticles/releases/tag/version_4a_May2026**
 
+<img width="1710" height="1005" alt="image" src="https://github.com/user-attachments/assets/ab0cb07c-32d6-48b9-a417-25ac7a14ceef" />
 
 
 Enjoy! and be sure to share/tell your friends who use the particle pack.
