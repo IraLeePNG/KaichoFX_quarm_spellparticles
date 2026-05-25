@@ -15,7 +15,7 @@ Ensure you do the following zeal commands when used in conjunction with KaichoFX
 > /spelleffects on
 
 ## How To Install:
-Download version 4a_May2026 from the file repository then follow these steps below.
+Click the **tags** link and navigate to current version, then download version 4a_May2026 from the file repository.Follow these steps below.
 
 1. rename your OLD "SpellEffects" folder to something like "SpellEffects Backup".
 
