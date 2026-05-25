@@ -1,15 +1,21 @@
-KaichoFX spell particles are a custom project for visual improvement on Everquest's original spell particle system. Utilizing their same base output/movement, a new approach to spell particles is now realized.
+<img width="512" height="164" alt="KaichoFX_512px" src="https://github.com/user-attachments/assets/77d270d0-aef3-4b3c-bbee-b7b98a069bcd" />
 
-Updated version 3A 2026:
+KaichoFX spell particles are a custom project started by Kaicho (iraleePNG) in 2023, for visual improvement for use while playing Project Quarm ran by Secrets & team. It's a direct replacement + enhancement to Everquest's original spell particle system. Utilizing their same base output/movement, the majority of spells will receive a new visual animation with the ones that are unable to benefit still being allowed to use original spell particles **(ensure /showspelleffects on)**. KaichoFX is in no way affiliated, sponsored, or licensed by Daybreak Games or the Everquest brand in any way shape or fashion -- this is a passion project by a lifelong addict of Everquest. 
 
-Updated SoW particles-- https://imgur.com/8jbpqjn
+**Updated version 4a 2026:**
 
-Updated Magic Nuke particles, polished Jboots/Huntercloak/TempFlux particles & sound effects, and updated spell-buff completion sound effect-- https://imgur.com/mPBmkQS
+
 
 Enjoy! and be sure to share/tell your friends who use the particle pack.
 
-How To Install:
-Download version 3AJan-2026 from the file repository then follow these steps below.
+## Notes with Zeal:
+Ensure you do the following zeal commands when used in conjunction with KaichoFX to enjoy the benefit of actual bard musical notes instead of awful funnels of blue annoying particles (i really don't know what the original devs were thinking with that one)
+> /spelleffects nosprites</br>
+> /spelleffects bard 2</br>
+> /spelleffects on
+
+## How To Install:
+Download version 4a_May2026 from the file repository then follow these steps below.
 
 1. rename your OLD "SpellEffects" folder to something like "SpellEffects Backup".
 
