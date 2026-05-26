@@ -13,7 +13,7 @@ Enjoy! and be sure to share/tell your friends who use the particle pack.
 Ensure you do the following zeal commands when used in conjunction with KaichoFX to enjoy the benefit of actual bard musical notes instead of awful funnels of blue annoying particles (i really don't know what the original devs were thinking with that one)
 > /spelleffects nosprites</br>
 > /spelleffects bard 2</br>
-> /spelleffects on
+> /showspelleffects on
 
 ## How To Install:
 Click the **tags** link and navigate to current version, then download version 4a_May2026 from the file repository.Follow these steps below.
