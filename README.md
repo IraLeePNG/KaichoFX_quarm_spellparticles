@@ -1,8 +1,8 @@
-<img width="512" height="164" alt="KaichoFX_512px" src="https://github.com/user-attachments/assets/77d270d0-aef3-4b3c-bbee-b7b98a069bcd" />
+<img width="512" height="180" alt="KaichoFX_512px" src="https://github.com/user-attachments/assets/15f08214-4cc5-413e-933f-ee4030cdc575" />
 
-KaichoFX spell particles are a custom project started by Kaicho (iraleePNG) in 2023, for visual improvement while playing on the Project Quarm server (ran by Secrets & team). It's a direct replacement + enhancement to Everquest's original spell particle system. Utilizing their same base output/movement, the majority of spells will receive a new visual animation with the ones that are unable to benefit still being allowed to use original spell particles **(ensure /showspelleffects on)**. KaichoFX is in no way affiliated, sponsored, or licensed by Daybreak Games or the Everquest brand in any way shape or fashion -- this is a passion project by a lifelong addict of Everquest. 
+KaichoFX spell particles are a custom project started by Kaicho (iraleePNG) in 2023, for visual improvement while playing on the Project Quarm server (ran by Secrets & team). It's a direct replacement + enhancement to Everquest's original spell particle system. Utilizing their same base output/movement, the majority of spells will receive a new visual animation while ones that are unable to benefit will still use original spell particles **(ensure /showspelleffects on)**. </br></br>KaichoFX is in no way affiliated, sponsored, or licensed by Daybreak Games or the Everquest brand in any way shape or fashion -- this is a passion project by a lifelong addict of Everquest. 
 
-**Most recently release version: 4a 2026: https://github.com/IraLeePNG/KaichoFX_quarm_spellparticles/releases/tag/version_4a_May2026**
+**Most recently released version: 4a 2026 ➡️ <a href="https://github.com/IraLeePNG/KaichoFX_quarm_spellparticles/releases/tag/version_4a_May2026">DOWNLOAD HERE!</a>**
 
 <img width="1710" height="1005" alt="image" src="https://github.com/user-attachments/assets/ab0cb07c-32d6-48b9-a417-25ac7a14ceef" />
 
